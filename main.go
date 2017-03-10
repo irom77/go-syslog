@@ -2,7 +2,7 @@ package main
 
 import (
 	"gopkg.in/mcuadros/go-syslog.v2"
-	"log/syslog"
+	//"log/syslog"
 	"fmt"
 )
 
