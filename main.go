@@ -1,6 +1,10 @@
 package main
 
-import "gopkg.in/mcuadros/go-syslog.v2"
+import (
+	"gopkg.in/mcuadros/go-syslog.v2"
+	"log/syslog"
+	"fmt"
+)
 
 
 func main() {
